@@ -322,6 +322,11 @@ img { max-width: 100%; }
 		padding: 60px 0 40px 0;
 	}
 
+  #section-topics a {
+    display: inline-block;
+    margin-right: 20px;
+  }
+
 		#section-topics p {
 			font: normal 12px/24px 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
 			color: #fff;
