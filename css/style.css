@@ -785,13 +785,21 @@ img { max-width: 100%; }
 	}
 
 		#section-sponsors h2 {
-			font: bold 24px/36px 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+			font: bold 26px/38px 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
 			margin-bottom: 20px;
 		}
+
+    #section-sponsors a {
+      color: #fa9aa4;
+    }
 
 		#section-sponsors img {
 			margin-bottom: 20px;
 		}
+
+    #section-sponsors #tier-one {
+      font-size: 1.6em;
+    }
 
 
 
