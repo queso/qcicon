@@ -768,6 +768,11 @@ img { max-width: 100%; }
 		}
 
 
+  #section-hotel {
+    color: #fff;
+    background: #fa9aa4;
+		padding: 60px 0 40px;
+  }
 
 	/*---------------------------------------------------
 		3.10 Sponsors
