@@ -1,5 +1,5 @@
 /*--------------------------------------------------------------------------
-   
+
     Eventcamp
 
     * Css override for mobile viewports
@@ -22,7 +22,7 @@
     /* Note: Design for a width of 320px */
 
     @media only screen and (max-width: 767px) {
-        
+
         /* Resize section titles and descriptions in the mobile viewports */
         h2 {
             font-size: 20px!important;
@@ -184,7 +184,7 @@
             background: #111;
         }
 
-        #section-info #box-date, 
+        #section-info #box-date,
         #section-info #box-time {
             margin-bottom: 30px;
         }
@@ -227,7 +227,7 @@
             max-width: 60%;
             margin-bottom: 30px;
         }
-        
+
         /* Adjust footer social media menu */
         #section-footer ul#social {
             float: none;
@@ -238,8 +238,8 @@
                 border-right: 1px solid #000;
             }
     }
-	
-	
+
+
 
 /* #Mobile (Landscape)
 ================================================== */
